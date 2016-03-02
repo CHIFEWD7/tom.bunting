@@ -1,0 +1,44 @@
+body {
+	font-family: Verdana;
+	font-size: 20px;
+	font-stretch: ultra-expanded;
+	background-image: url("https://static.pexels.com/photos/40401/pexels-photo-40401.jpeg");
+	background-position: center;
+	background-size: 1300px 1300px;
+	background-repeat: no-repeat;
+}
+
+ul {
+	list-style: none;
+	text-align: right;
+	font-size: 15px;
+}
+
+li {
+	display: inline-block;
+	padding-left: 10px;
+	color: #FDFDFD;
+}
+
+h1 {
+	padding: 0px;
+	margin-top: 315px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #FDFDFD;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	vertical-align: middle;
+}
+
+p {
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+	color: #FDFDFD;
+	text-transform: uppercase;
+	vertical-align: middle;
+}
+
+
+
