@@ -95,7 +95,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+#csc-progress,
+#staffing,
+#minutes {
+    border: 1px solid #272822;
+}
 
 
 
